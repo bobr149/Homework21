@@ -1,0 +1,15 @@
+.greet__title {
+    font-size: 5rem;
+    margin-bottom: 50px;
+}
+
+.greet__text {
+    font-size: 2rem;
+    line-height: 150%;
+    margin-bottom: 50px;
+}
+
+
+.greet__text-1 {
+    font-family: 'Lobster', cursive;;
+}
